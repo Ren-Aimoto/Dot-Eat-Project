@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 4305359d065514b2caffe3be1286e94a
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: be_office_m_intern_head01
+    100004: be_office_m_intern_head01_end
+    100006: be_office_m_intern_l_hand01
+    100008: be_office_m_intern_l_hand01_end
+    100010: be_office_m_intern_l_toes01
+    100012: be_office_m_intern_l_toes01_end
+    100014: be_office_m_intern_r_hand01
+    100016: be_office_m_intern_r_hand01_end
+    100018: be_office_m_intern_r_toes01
+    100020: be_office_m_intern_r_toes01_end
+    100022: bind_office_m_intern_head01
+    100024: bind_office_m_intern_hips01
+    100026: bind_office_m_intern_l_calf01
+    100028: bind_office_m_intern_l_foot01
+    100030: bind_office_m_intern_l_forearm01
+    100032: bind_office_m_intern_l_shoulder01
+    100034: bind_office_m_intern_l_thigh01
+    100036: bind_office_m_intern_l_upperarm01
+    100038: bind_office_m_intern_neck01
+    100040: bind_office_m_intern_r_calf01
+    100042: bind_office_m_intern_r_foot01
+    100044: bind_office_m_intern_r_forearm01
+    100046: bind_office_m_intern_r_shoulder01
+    100048: bind_office_m_intern_r_thigh01
+    100050: bind_office_m_intern_r_upperarm01
+    100052: bind_office_m_intern_spine_a01
+    100054: bind_office_m_intern_spine_b01
+    100056: bind_office_m_intern_spine_c01
+    100058: Camera
+    100060: Light
+    100062: mesh_office_m_intern01
+    100064: //RootNode
+    400000: Armature
+    400002: be_office_m_intern_head01
+    400004: be_office_m_intern_head01_end
+    400006: be_office_m_intern_l_hand01
+    400008: be_office_m_intern_l_hand01_end
+    400010: be_office_m_intern_l_toes01
+    400012: be_office_m_intern_l_toes01_end
+    400014: be_office_m_intern_r_hand01
+    400016: be_office_m_intern_r_hand01_end
+    400018: be_office_m_intern_r_toes01
+    400020: be_office_m_intern_r_toes01_end
+    400022: bind_office_m_intern_head01
+    400024: bind_office_m_intern_hips01
+    400026: bind_office_m_intern_l_calf01
+    400028: bind_office_m_intern_l_foot01
+    400030: bind_office_m_intern_l_forearm01
+    400032: bind_office_m_intern_l_shoulder01
+    400034: bind_office_m_intern_l_thigh01
+    400036: bind_office_m_intern_l_upperarm01
+    400038: bind_office_m_intern_neck01
+    400040: bind_office_m_intern_r_calf01
+    400042: bind_office_m_intern_r_foot01
+    400044: bind_office_m_intern_r_forearm01
+    400046: bind_office_m_intern_r_shoulder01
+    400048: bind_office_m_intern_r_thigh01
+    400050: bind_office_m_intern_r_upperarm01
+    400052: bind_office_m_intern_spine_a01
+    400054: bind_office_m_intern_spine_b01
+    400056: bind_office_m_intern_spine_c01
+    400058: Camera
+    400060: Light
+    400062: mesh_office_m_intern01
+    400064: //RootNode
+    2000000: Camera
+    2100000: character
+    4300000: mesh_office_m_intern01
+    9500000: //RootNode
+    10800000: Light
+    13700000: mesh_office_m_intern01
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character
+    second: {fileID: 2100000, guid: 9d0b798dd313ffd4e9e58bb4a5313b00, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
